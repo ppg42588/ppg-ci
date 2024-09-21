@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "E:\\gitSorce\\ccpp\\step1\\step1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A64A2D9C-A8C9-4CB8-8731-934D9F54A1B8}|..\\chapter2\\chapter2.vcxproj|E:\\gitSorce\\ccpp\\step1\\chapter2\\Demo1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CBD46E23-E0C5-4B56-9627-DEC932789D5C}|..\\chapter6\\chapter6.vcxproj|E:\\gitSorce\\ccpp\\step1\\chapter6\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,14 +22,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Demo1.c",
-              "DocumentMoniker": "E:\\gitSorce\\ccpp\\step1\\chapter2\\Demo1.c",
-              "RelativeDocumentMoniker": "..\\chapter2\\Demo1.c",
-              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\chapter2\\Demo1.c",
-              "RelativeToolTip": "..\\chapter2\\Demo1.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Title": "Main.c",
+              "DocumentMoniker": "E:\\gitSorce\\ccpp\\step1\\chapter6\\Main.c",
+              "RelativeDocumentMoniker": "..\\chapter6\\Main.c",
+              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\chapter6\\Main.c",
+              "RelativeToolTip": "..\\chapter6\\Main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-09-21T07:48:46.976Z",
+              "WhenOpened": "2024-09-21T12:07:56.801Z",
               "EditorCaption": ""
             }
           ]
