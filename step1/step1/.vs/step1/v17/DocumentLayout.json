@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "E:\\gitSorce\\ccpp\\step1\\step1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|E:\\gitSorce\\ccpp\\step1\\snake\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|E:\\gitSorce\\ccpp\\step1\\snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|E:\\gitSorce\\ccpp\\step1\\snake\\Snake.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|E:\\gitSorce\\ccpp\\step1\\snake\\Snake.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{6933DCFF-80FC-4009-BDCF-4E54900C9527}|..\\snake\\snake.vcxproj|E:\\gitSorce\\ccpp\\step1\\snake\\Main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,7 +19,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -27,13 +27,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Main.c",
               "DocumentMoniker": "E:\\gitSorce\\ccpp\\step1\\snake\\Main.c",
               "RelativeDocumentMoniker": "..\\snake\\Main.c",
               "ToolTip": "E:\\gitSorce\\ccpp\\step1\\snake\\Main.c",
               "RelativeToolTip": "..\\snake\\Main.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-25T14:52:35.066Z",
               "EditorCaption": ""
@@ -44,22 +44,22 @@
               "Title": "Snake.c",
               "DocumentMoniker": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.c",
               "RelativeDocumentMoniker": "..\\snake\\Snake.c",
-              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.c*",
-              "RelativeToolTip": "..\\snake\\Snake.c*",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAACkAAAAAAAAA",
+              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.c",
+              "RelativeToolTip": "..\\snake\\Snake.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEUAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-09-25T14:52:16.14Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Snake.h",
               "DocumentMoniker": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.h",
               "RelativeDocumentMoniker": "..\\snake\\Snake.h",
-              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.h*",
-              "RelativeToolTip": "..\\snake\\Snake.h*",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACoAAAAQAAAA",
+              "ToolTip": "E:\\gitSorce\\ccpp\\step1\\snake\\Snake.h",
+              "RelativeToolTip": "..\\snake\\Snake.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-25T14:52:08.078Z",
               "EditorCaption": ""

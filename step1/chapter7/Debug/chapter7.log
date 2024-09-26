@@ -1,0 +1,7 @@
+﻿  Main.c
+E:\gitSorce\ccpp\step1\chapter7\Main.c(25,5): warning C4013: “system”未定义；假设外部返回 int
+E:\gitSorce\ccpp\step1\chapter7\Main.c(78,5): warning C4013: “strcpy”未定义；假设外部返回 int
+E:\gitSorce\ccpp\step1\chapter7\Main.c(117,20): warning C4013: “strtok”未定义；假设外部返回 int
+E:\gitSorce\ccpp\step1\chapter7\Main.c(117,18): warning C4047: “=”:“char *”与“int”的间接级别不同
+E:\gitSorce\ccpp\step1\chapter7\Main.c(119,18): warning C4047: “=”:“char *”与“int”的间接级别不同
+  chapter7.vcxproj -> E:\gitSorce\ccpp\step1\step1\Debug\chapter7.exe

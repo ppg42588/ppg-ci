@@ -1,0 +1,4 @@
+﻿  Main.c
+E:\gitSorce\ccpp\step1\chapter4\Main.c(31,20): warning C4013: “strlen”未定义；假设外部返回 int
+E:\gitSorce\ccpp\step1\chapter4\Main.c(35,8): warning C4013: “time”未定义；假设外部返回 int
+  chapter4.vcxproj -> E:\gitSorce\ccpp\step1\step1\x64\Debug\chapter4.exe
