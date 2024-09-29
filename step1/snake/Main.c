@@ -5,5 +5,7 @@ int main()
 {
 	startGame();
 
+	endGame();
+
 	return 0;
 }

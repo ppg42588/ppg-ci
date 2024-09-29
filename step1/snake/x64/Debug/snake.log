@@ -1,9 +1,6 @@
 ﻿  Main.c
   Snake.c
   正在生成代码...
-C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(30,1): warning C4716: “initSnake”: 必须返回一个值
-C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(42,1): warning C4716: “showScene”: 必须返回一个值
-C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(48,1): warning C4716: “moveSnake”: 必须返回一个值
-C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(36,1): warning C4716: “initFood”: 必须返回一个值
-C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(54,1): warning C4716: “collisionDetermination”: 必须返回一个值
+C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(43,8): warning C4013: “time”未定义；假设外部返回 int
+C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\snake\Snake.c(172,1): warning C4716: “endGame”: 必须返回一个值
   snake.vcxproj -> C:\Users\ppg42588\Documents\c语言\cproject\ppg-ci\step1\step1\x64\Debug\snake.exe
