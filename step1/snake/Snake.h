@@ -28,7 +28,7 @@ typedef struct Wall
 typedef struct Snake
 {
 	int size;					// 蛇的身体大小
-	DOT body[HEIGHT-2][WEIGHT-2];	// 蛇的身体
+	DOT body[(HEIGHT-2)*(WEIGHT-2)];	// 蛇的身体
 }SNAKE;
 
 // 初始化地图
