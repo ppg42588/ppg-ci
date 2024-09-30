@@ -13,8 +13,8 @@
 // 一个点的构成
 typedef struct Dot
 {
-	int x;	// 纵坐标
 	int y;	// 横坐标
+	int x;	// 纵坐标
 	char ch;// 该点显示的字符
 }DOT;
 
@@ -27,11 +27,7 @@ typedef struct Wall
 // 蛇的身体
 typedef struct Snake
 {
-<<<<<<< HEAD
-	int size;					// 蛇的身体大小
-=======
 	int size;							// 蛇的身体大小
->>>>>>> 95187c95a3a281605f66d5aec3acd8c08322d952
 	DOT body[(HEIGHT-2)*(WEIGHT-2)];	// 蛇的身体
 }SNAKE;
 

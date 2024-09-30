@@ -130,30 +130,45 @@ int startGame()
 	SNAKE* snake = initSnake();
 	// 初始化食物
 	DOT* food = initFood(snake);
+	// 初始化横向移动值
+	int moveX = 1;
+	// 初始化纵向移动值
+	int moveY = 0;
 
 	while (1)
 	{
-		Sleep(600);
+		Sleep(200);
 		if (_kbhit())
 		{
-			char ch = getchar();
-			if (ch == 'w' || ch == 'W')
+			char ch = getch();
+			switch (ch)
 			{
-				moveSnake(-1, 0, snake);
-			}
-			else if (ch == 's' || ch == 'S')
-			{
-				moveSnake(1, 0, snake);
-			}
-			else if (ch == 'a' || ch == 'A')
-			{
-				moveSnake(0, -1, snake);
-			}
-			else if (ch == 'd' || ch == 'D')
-			{
-				moveSnake(0, 1, snake);
+			case 'W':
+			case 'w':
+				moveY = -1;
+				moveX = 0;
+				break;
+			case 'S':
+			case 's':
+				moveY = 1;
+				moveX = 0;
+				break;
+			case 'A':
+			case 'a':
+				moveY = 0;
+				moveX = -1;
+				break;
+			case 'D':
+			case 'd':
+				moveY = 0;
+				moveX = 1;
+				break;
+			default:
+				break;
+
 			}
 		}
+		moveSnake(moveY, moveX, snake);
 		showScene(food, snake, wall);
 		if (collisionDetermination(food, snake, wall) == -1)
 			break;
