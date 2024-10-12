@@ -1,4 +1,0 @@
-﻿  Snake.c
-E:\gitSorce\ccpp\step1\snake\Snake.c(43,8): warning C4013: “time”未定义；假设外部返回 int
-E:\gitSorce\ccpp\step1\snake\Snake.c(187,1): warning C4716: “endGame”: 必须返回一个值
-  snake.vcxproj -> E:\gitSorce\ccpp\step1\step1\x64\Debug\snake.exe

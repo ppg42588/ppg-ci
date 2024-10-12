@@ -1,4 +1,0 @@
-﻿  Demo1.c
-E:\gitSorce\ccpp\step1\chapter2\Demo1.c(18,5): warning C4013: “system”未定义；假设外部返回 int
-E:\gitSorce\ccpp\step1\chapter2\Demo1.c(7,20): warning C4305: “初始化”: 从“double”到“float”截断
-  chapter2.vcxproj -> E:\gitSorce\ccpp\step1\step1\x64\Debug\chapter2.exe
